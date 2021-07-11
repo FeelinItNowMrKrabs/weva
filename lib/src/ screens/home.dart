@@ -5,12 +5,12 @@ class Home extends StatelessWidget {
   Widget build(context) {
     return Container(
       width: double.infinity,
-      height: 500,
+      height: 700,
       color: Colors.green,
       child: Center(
         child: Container(
-          width: 200,
-          height: 200,
+          width: 250,
+          height: 250,
           color: Colors.purple,
         ),
       ),
