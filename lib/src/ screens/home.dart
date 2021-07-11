@@ -6,7 +6,7 @@ class Home extends StatelessWidget {
     return Container(
       width: double.infinity,
       height: 500,
-      color: Colors.amber,
+      color: Colors.green,
       child: Center(
         child: Container(
           width: 200,
